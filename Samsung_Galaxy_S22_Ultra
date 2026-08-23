@@ -1,0 +1,30 @@
+{
+    "id": "samsung_galaxy_s22_ultra",
+    "brandLabel": "Samsung",
+    "modelLabel": "Galaxy S22 Ultra",
+    "summary": "Snapdragon 8 Gen 1 - Android 13",
+    "profile": {
+        "brand": "samsung",
+        "manufacturer": "samsung",
+        "model": "SM-S908B",
+        "productName": "b3q",
+        "deviceCode": "b3q",
+        "board": "b3q",
+        "hardware": "qcom",
+        "boardPlatform": "b3q",
+        "buildFingerprint": "samsung/b3qxx/b3q:13/TP1A.220624.014/S908BXXU2BWH3:user/release-keys",
+        "buildId": "TP1A.220624.014",
+        "buildDisplayId": "TP1A.220624.014",
+        "buildIncremental": "S908BXXU2BWH3",
+        "buildRelease": "13",
+        "buildSdk": 33,
+        "securityPatch": "2024-01-01",
+        "screenWidth": 1440,
+        "screenHeight": 3088,
+        "screenDensity": 500,
+        "operatorAlpha": "O2",
+        "operatorNumeric": "23410",
+        "simCountryIso": "uk",
+        "timezone": "Europe/London"
+    }
+}
