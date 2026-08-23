@@ -1,0 +1,30 @@
+{
+    "id": "samsung_galaxy_s24_ultra",
+    "brandLabel": "Samsung",
+    "modelLabel": "Galaxy S24 Ultra",
+    "summary": "Snapdragon 8 Gen 3 - Android 14",
+    "profile": {
+        "brand": "samsung",
+        "manufacturer": "samsung",
+        "model": "SM-S928B",
+        "productName": "e3q",
+        "deviceCode": "e3q",
+        "board": "e3q",
+        "hardware": "qcom",
+        "boardPlatform": "e3q",
+        "buildFingerprint": "samsung/e3qxx/e3q:14/UP1A.231005.007/S928BXXU1BWH3:user/release-keys",
+        "buildId": "UP1A.231005.007",
+        "buildDisplayId": "UP1A.231005.007",
+        "buildIncremental": "S928BXXU1BWH3",
+        "buildRelease": "14",
+        "buildSdk": 34,
+        "securityPatch": "2024-11-01",
+        "screenWidth": 1440,
+        "screenHeight": 3120,
+        "screenDensity": 500,
+        "operatorAlpha": "AT&T",
+        "operatorNumeric": "310410",
+        "simCountryIso": "us",
+        "timezone": "America/Chicago"
+    }
+}
