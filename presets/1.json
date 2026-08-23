@@ -1,0 +1,30 @@
+{
+    "id": "samsung_galaxy_z_fold8",
+    "brandLabel": "Samsung",
+    "modelLabel": "Galaxy Z Fold8",
+    "summary": "Snapdragon 8 Gen 4 - Android 15",
+    "profile": {
+        "brand": "samsung",
+        "manufacturer": "samsung",
+        "model": "SM-F958B",
+        "productName": "q4q",
+        "deviceCode": "q4q",
+        "board": "sun",
+        "hardware": "qcom",
+        "boardPlatform": "sun",
+        "buildFingerprint": "samsung/q4qxins/q4q:15/AP3A.240905.015.A2/F958BXXU0AXKG:user/release-keys",
+        "buildId": "AP3A.240905.015.A2",
+        "buildDisplayId": "AP3A.240905.015.A2",
+        "buildIncremental": "F958BXXU0AXKG",
+        "buildRelease": "15",
+        "buildSdk": 35,
+        "securityPatch": "2025-01-01",
+        "screenWidth": 2208,
+        "screenHeight": 2376,
+        "screenDensity": 480,
+        "operatorAlpha": "T-Mobile",
+        "operatorNumeric": "310260",
+        "simCountryIso": "us",
+        "timezone": "America/New_York"
+    }
+}
